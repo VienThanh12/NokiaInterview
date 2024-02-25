@@ -10,7 +10,6 @@ ll n;
 ll res = 0;
 ll sum = 0;
 
-
 int mySqrt(int x){
     ll first  = 0, second = x, mid = (first + second) / 2;
     ll res = 0;
